@@ -11,3 +11,7 @@ pressure=$(echo "$weather_details" | jq '.main.pressure')
 humidity=$(echo "$weather_details" | jq '.main.humidity')
 echo "$time \t $temp \t $feels_like \t $temp_min \t $temp_max \t $pressure \t $humidity \n" >> data.md
 
+git pull
+git add .
+git commit -m "Added data for "$time""
+git push
