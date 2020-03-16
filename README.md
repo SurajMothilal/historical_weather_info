@@ -1,2 +1,2 @@
 # historical_weather_info
-A collection of historical weather data for Toronto
+An automated schedule lookup and collection of historical weather data for Toronto
