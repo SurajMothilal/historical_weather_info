@@ -3,3 +3,7 @@ time temp feels_like temp_min temp_max pressure humidity
 
  	  	  	  	  	  	  
 
+1592487731 	 295.96 	 293.93 	 294.82 	 297.59 	 1021 	 53 
+
+1592487142 	 295.95 	 293.92 	 294.82 	 297.59 	 1021 	 53 
+
